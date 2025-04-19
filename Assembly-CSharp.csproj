@@ -64,6 +64,7 @@
     <Compile Include="Assets\DummyEnemy.cs" />
     <Compile Include="Assets\HealthBar.cs" />
     <Compile Include="Assets\RTSCameraController.cs" />
+    <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\UnitSelection.cs" />
   </ItemGroup>
   <ItemGroup>

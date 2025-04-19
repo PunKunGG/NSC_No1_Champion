@@ -356,6 +356,7 @@
 -analyzer:"D:/Unity_App/2022.3.61f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/DummyEnemy.cs"
 "Assets/HealthBar.cs"
+"Assets/MainMenu.cs"
 "Assets/RTSCameraController.cs"
 "Assets/Unit.cs"
 "Assets/UnitSelection.cs"
